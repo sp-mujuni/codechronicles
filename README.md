@@ -1,2 +1,2 @@
 # code chronicles
-A frontend project blog for short fictional technology stories and research
+A frontend blog project for short fictional technology stories and research
